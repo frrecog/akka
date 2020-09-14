@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\target\scala-2.13\test-classes\com\lightbend\training\coffeehouse\CoffeeHouseTest$8.class: stamp changed from lastModified(1599999614793) to lastModified(1599999914732)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe com.lightbend.training.coffeehouse.CoffeeHouse has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(GetStatus,[Default]), UsedName(Status,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.lightbend.training.coffeehouse.CoffeeHouse: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.lightbend.training.coffeehouse.CoffeeHouse.[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: com.lightbend.training.coffeehouse.CoffeeHouseTest[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: com.lightbend.training.coffeehouse.CoffeeHouseAppTest[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: com.lightbend.training.coffeehouse.WaiterTest[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe com.lightbend.training.coffeehouse.CoffeeHouseApp has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(com;lightbend;training;coffeehouse;CoffeeHouseApp;init;,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) com.lightbend.training.coffeehouse.CoffeeHouseApp: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) com.lightbend.training.coffeehouse.CoffeeHouseApp.[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: com.lightbend.training.coffeehouse.CoffeeHouseAppTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\BaristaTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\GuestTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\WaiterTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseAppTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set(NamesChange(com.lightbend.training.coffeehouse.CoffeeHouse,ModifiedNames(changes = UsedName(GetStatus,[Default]), UsedName(Status,[Default]))), NamesChange(com.lightbend.training.coffeehouse.CoffeeHouseApp,ModifiedNames(changes = UsedName(com;lightbend;training;coffeehouse;CoffeeHouseApp;init;,[Default]))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\target\scala-2.13\test-classes\com\lightbend\training\coffeehouse\CoffeeHouseTest$8.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.lightbend.training.coffeehouse.CoffeeHouseTest, com.lightbend.training.coffeehouse.CoffeeHouseAppTest, com.lightbend.training.coffeehouse.BaristaTest, com.lightbend.training.coffeehouse.WaiterTest, com.lightbend.training.coffeehouse.GuestTest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set(com.lightbend.training.coffeehouse.CoffeeHouseTest, com.lightbend.training.coffeehouse.CoffeeHouseAppTest, com.lightbend.training.coffeehouse.WaiterTest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.lightbend.training.coffeehouse.CoffeeHouseTest, com.lightbend.training.coffeehouse.CoffeeHouseAppTest, com.lightbend.training.coffeehouse.BaristaTest, com.lightbend.training.coffeehouse.WaiterTest, com.lightbend.training.coffeehouse.GuestTest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\BaristaTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\GuestTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\WaiterTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseAppTest.java, C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 8 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 8 Java sources to C:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\target\scala-2.13\test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@34a40816 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 2.4258696 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 1.1577937 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 3.598461 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

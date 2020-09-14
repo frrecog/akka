@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseAppTest.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: variable statusTimeout[0m
+[0m[[0m[31merror[0m] [0m[0m      new CoffeeHouseApp(system, statusTimeout);[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\user\Downloads\LAJ-P-lightbend-akka-for-java-professional\LAJ-P-lightbend-akka-for-java-professional\exercises\exercises\src\test\java\com\lightbend\training\coffeehouse\CoffeeHouseAppTest.java:46:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: variable statusTimeout[0m
+[0m[[0m[31merror[0m] [0m[0m      new CoffeeHouseApp(system, statusTimeout) {[0m

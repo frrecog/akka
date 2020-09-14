@@ -1,0 +1,9 @@
+#Successful Tests
+#Mon Sep 14 00:42:22 IST 2020
+com.lightbend.training.coffeehouse.TerminalTest=1600024340965
+com.lightbend.training.coffeehouse.WaiterTest=1600024341727
+com.lightbend.training.coffeehouse.CoffeeHouseTest=1600024339313
+com.lightbend.training.coffeehouse.CoffeeTest=1600024341093
+com.lightbend.training.coffeehouse.BaristaTest=1600024340919
+com.lightbend.training.coffeehouse.GuestTest=1600024342445
+com.lightbend.training.coffeehouse.CoffeeHouseAppTest=1600024340364
